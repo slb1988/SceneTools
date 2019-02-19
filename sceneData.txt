@@ -1,0 +1,1 @@
+{"sceneDic":{"1":{"sceneId":"1","width":4,"height":4,"textureData":"0,1,0,0,0,0,3,0,0,0,0,0,0,4,0,0,","rotateData":"0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"},"2":{"sceneId":"2","width":4,"height":4,"textureData":"0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,","rotateData":"0,0,0,0,0,0,0,0,0,270,0,0,0,0,0,0,"},"3":{"sceneId":"3","width":10,"height":10,"textureData":null,"rotateData":null}}}
